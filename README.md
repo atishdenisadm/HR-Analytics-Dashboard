@@ -17,7 +17,8 @@ Power BI Desktop, Power Query
 2. Transformed and cleaned data using Power Query.
 3. Removed duplicate records and corrected inconsistencies.
 4. Applied appropriate data formats, such as currency and percentage.
-5. Loaded the cleaned data into Power BI for analysis.
+5. Applied new measures using DAX for calculating attrition rate, attrition count and total employees.
+6. Loaded the cleaned data into Power BI for analysis.
 
 ## Data Modeling
 1. Established a one-to-one relationship between two tables using Employee ID in Model View.
@@ -34,7 +35,7 @@ Power BI Desktop, Power Query
      1. Bar chart comparing average monthly income by department.
 5. Key Influencer visual highlighting conditions that most affect attrition (e.g., Overtime, Year at Company, job satisfaction).
 
-<img width="1243" height="695" alt="image" src="https://github.com/user-attachments/assets/af132e2f-6301-476e-9b4c-fe4a2b79b38d" />
+<img width="1312" height="737" alt="Hr_analytics_dashboard" src="https://github.com/user-attachments/assets/d4fad437-983e-4312-b395-3ea14deb3385" />
 
 ## Insights and Outcomes
 1. Employees working overtime are nearly 3x more likely to leave (attrition ↑ 2.93x), i.e., 30.53% among overtime employees.
